@@ -1,6 +1,6 @@
 package com.itt.arte;
 
-//import java.util.Scanner;
+import java.util.Scanner;
 
 public class Teatro extends Local implements Sala {
 	private Obra obra;
